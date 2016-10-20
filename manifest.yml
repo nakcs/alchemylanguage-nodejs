@@ -4,7 +4,7 @@ declared-services:
     label: alchemy_api
     plan: free
 applications:
-- name: alchemy-language-demo
+- name: alchemy-language-demo-nk
   command: npm start
   memory: 512MB
   services:
